@@ -1,3 +1,7 @@
+# Try the site in the link below
+This site built with create react app using React and Redux.
+[Clothing Ecommerce](https://clothing-ecomarce.herokuapp.com/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
