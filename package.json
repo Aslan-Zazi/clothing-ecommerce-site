@@ -5,8 +5,8 @@
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
-    "@testing-library/user-event": "^12.5.0",
-    "firebase": "^8.1.2",
+    "@testing-library/user-event": "^12.6.0",
+    "firebase": "^8.2.1",
     "lodash.memoize": "^4.1.2",
     "node-sass": "^4.14.1",
     "react": "^17.0.1",
@@ -19,7 +19,7 @@
     "redux-logger": "^3.0.6",
     "redux-persist": "^6.0.0",
     "reselect": "^4.0.0",
-    "serverless": "^2.15.0",
+    "serverless": "^2.16.0",
     "styled-components": "^5.2.1",
     "web-vitals": "^1.0.1"
   },
